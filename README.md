@@ -1,8 +1,8 @@
 # Physics Quiz Web App
 
-![Quiz App Screenshot](image-01.jpg)
-![Quiz App Screenshot](image-02.jpg)
-![Quiz App Screenshot](image-03.jpg)
+![Quiz App Screenshot](image-01.png)
+![Quiz App Screenshot](image-02.png)
+![Quiz App Screenshot](image-03.png)
 
 An interactive physics quiz application built with React.js that works on mobile, tablet, and desktop devices. Features dark/light mode toggle, instant answer feedback, and responsive design.
 
